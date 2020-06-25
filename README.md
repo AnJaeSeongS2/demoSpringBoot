@@ -1,5 +1,5 @@
 ## 목적
-* for demoSpringBoot test
+* for demoSpringBoot test2
  * spring boot
  * docker
  * grafana
